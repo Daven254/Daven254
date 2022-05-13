@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daven254. 
 - 👀 I’m interested in synthetic biology, bioinformatics, and data science as topics to direct my career.
-- 🌱 I’m currently learning R and relearning SQL-type languages to handle large datasets.
+- 🌱 I’m currently learning R and relearning SQL & Python to handle large datasets.
 - 💞️ I’m looking to collaborate on anything to help me build knowledge, networking, and skills.
 - 📫 How to reach me:
   - [email](dshah912@terpmail.umd.edu)
