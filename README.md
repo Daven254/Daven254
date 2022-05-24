@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Daven254. 
 - ### 👀 I’m interested in synthetic biology, bioinformatics, and data science. I am looking to change my career direction towards *data science* **or** *data engineering*
-- 
 
 ## Future plans:
 - 🌱 I’m currently relearning Python to handle large datasets and restarting SQL
