@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daven Shah (@Daven254.) 
+# 👋 Hi, I’m Daven Shah (@Daven254) 
 ### 👀 I’m interested in synthetic biology, bioinformatics, and data science. I am looking to change my career direction towards *data science* **or** *data engineering*
 
 ## Future plans:
