@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daven Shah (@Daven254) 
 This is a new profile -- I lost access to my old profile from a few years back
-### 👀 I’m interested in synthetic biology, bioinformatics, and data science. I am looking to change my career direction towards *data science* **or** *data engineering*
+### 👀 I’m interested in synthetic biology, bioinformatics, and data science. I am looking to change my career direction towards *data science* **or** *data engineering*. Entry/junior level roles in SWE, DS, DE are what I am currently trying to jump into. Reach out if you want to chat, have openings, or want to collaborate
 
 ## Future plans:
 - 🌱 I’m currently relearning Python to handle large datasets and restarting SQL
@@ -9,6 +9,16 @@ This is a new profile -- I lost access to my old profile from a few years back
   - [email](dshah912@terpmail.umd.edu)
   - [linkedin](https://www.linkedin.com/in/daven-shah-665a4460)
 
+***
+## Programming Skills:
+  - Python using NumPy, Pandas, Seaborn, Matplotlib, but currently working on developing other libraries/packages like plotly, scipy, etc.
+  - Java
+  - C/C++
+  - Javascript
+  - HTML/CSS
+  - Basic SQL
+
+I'm currently working on learning machine learning programming and data engineering as personal projects
 ***
 
 ## Currently: Biopharmaceutical Associate @ GlaxoSmithKline 
