@@ -11,7 +11,7 @@ This is a new profile -- I lost access to my old profile from a few years back
 
 ***
 ## Programming Skills:
-  - Python using NumPy, Pandas, Seaborn, Matplotlib, but currently working on developing other libraries/packages like plotly, scipy, etc.
+  - Python using NumPy, Pandas, Seaborn, Matplotlib, Plotly, Sklearn, Scipy.
   - Java
   - C/C++
   - Javascript
@@ -21,7 +21,7 @@ This is a new profile -- I lost access to my old profile from a few years back
 I'm currently working on learning machine learning programming and data engineering as personal projects
 ***
 
-## Currently: Biopharmaceutical Associate @ GlaxoSmithKline 
+## Currently: Senior Data Science Consultant @ Booz Allen Hamilton 
    Started: Jan 2022
    
    Field: Bio-manufacturing
