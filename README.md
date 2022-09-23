@@ -22,17 +22,18 @@ I'm currently working on learning machine learning programming and data engineer
 ***
 
 ## Currently: Senior Data Science Consultant @ Booz Allen Hamilton 
-   Started: Jan 2022
+   Started: Jul 2022
    
-   Field: Bio-manufacturing
+   Field: TBD
    
-   Industry Skills: Cell Culture, Aseptic Technique, Analytical Instrumentation, etc.
+   Industry Skills: Regression, Clustering, and Classification Techniques, Statistical Machine Learning
    
 ***
 
 Education:
 |School|Degree|GPA|Graduation|
 |---|---|---|---|
+|Arizona State University|MS Computer Science|4.0|Anticipated Dec 2023|
 |University of Maryland, College Park Campus|BS Biology|3.4|Dec 2020|
 |University of Maryland, College Park Campus|BS Biochemistry|3.3|Dec 2021|
 |University of Maryland, Global Campus|BS Computer Science|3.7|Dec 2021|
